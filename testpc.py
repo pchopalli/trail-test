@@ -1,1 +1,2 @@
-print("test creating file")
+s="this will print"
+print("test creating file", s)
