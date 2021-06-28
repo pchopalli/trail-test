@@ -1,2 +1,2 @@
-# trail-test
+# trial-test
 Practice examples
